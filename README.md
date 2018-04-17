@@ -1,0 +1,2 @@
+# Stringbufbui
+strings concept
